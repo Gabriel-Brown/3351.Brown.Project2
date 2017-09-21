@@ -136,7 +136,7 @@ public class LLSearchGUI extends javax.swing.JFrame {
         
         jLabel1.setText(LL.printLList(number));
         
-        
+        jTextField1.selectAll();
         jTextField1.requestFocus();
 
     }//GEN-LAST:event_jButton1ActionPerformed
